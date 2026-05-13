@@ -128,7 +128,7 @@ El sistema fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-movies/
+SistemaGestionMultimedia/
 │
 ├── src/
 ├── database/
@@ -373,19 +373,16 @@ git push origin feature/new-feature
 
 ---
 
-# 👨‍💻 Créditos
+# 👨‍💻 Autor
 
 <div align="center">
 
-## 👨‍💻 Desarrolladores
+##Isai Reyes Developer
 
-### Tianle Zhang — 74488544  
-### Yuanfan Zhang — 18601447  
-### Siyu Zhou — 77729957  
-
-Desarrolladores enfocados en sistemas multimedia, Java y bases de datos.
+Desarrolladores enfocados en plataformas multimedia y experiencias modernas de streaming web.
 
 </div>
+
 
 ---
 
