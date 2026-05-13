@@ -377,7 +377,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-##Isai Reyes Developer
+## Isai Reyes Developer
 
 Desarrolladores enfocados en plataformas multimedia y experiencias modernas de streaming web.
 
